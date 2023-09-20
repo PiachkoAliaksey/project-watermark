@@ -2,7 +2,7 @@
 This is an application which provide the posibility to create a stamp (logo) watermark on image different format.
 
 ## Deploy page: 
-https://PiachkoAliaksey.github.io/project-watermark/project-watermark/dist/
+https://PiachkoAliaksey.github.io/project-watermark/index.html
 
 ## Installation
 
