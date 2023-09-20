@@ -102,7 +102,7 @@ export const mainComponent = () => {
             } else if (inputNameWatermark.type === 'file' && inputNameWatermark.style.display !== 'none') {
                 waterMarkStampImg!.style.zIndex = "1";
             } else {
-                waterMarkStampImg!.src = './src/img/watermarkimage.png';
+                waterMarkStampImg!.src = 'watermarkimage.png';
                 waterMarkStampImg!.style.zIndex = "1";
             }
 
